@@ -1,0 +1,42 @@
+.menu{
+    background-color: black;
+}
+
+.menu__txt{
+    display: inline;
+
+}
+
+.menu__txt:hover{
+    background-color: grey;
+    text-align: center;
+
+}
+ul1{
+    color: white;
+    line-height: 2;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pokemons{
+    text-align: center;
+
+}
+
+.pokemons__pokemon{
+    display: inline-block;
+    background-color: lightblue;
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+
+.pokemons__pokemon:hover{
+    background-color: black;
+}
+
+.pokemons__pokemon-imgtxt{
+    
+    background-color: white;
+    
+}
